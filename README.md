@@ -1,5 +1,5 @@
 # Investigating the Microvessel Architecture of the Mouse Brain:
-## An Approach for Measuring, Stitching, and Analyzing 50 Teravoxels of Data 
+## An Approach for Measuring, Stitching, and Analyzing 50 Terabytes of Data 
 
 The presentation and related material for the SRI 2015 Conference
 - The [slides](https://rawgit.com/4Quant/SRI2015/master/SRIPres.html) can be seen here
